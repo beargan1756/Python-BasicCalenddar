@@ -1,5 +1,3 @@
-pip install pillow
-pip install pygame
 # 🎓 TAR UMT Student Assistant App
 
 A simple and user-friendly **Student Assistant App** built using **Python (Tkinter)**.  
